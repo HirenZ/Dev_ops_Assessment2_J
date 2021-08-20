@@ -17,6 +17,6 @@ class SqureTest {
 	void test2() {
 	UTesting test= new UTesting();
 	int output =test.squre(6);
-	assertEquals(35,output);
+	assertEquals(36,output);
 }
 }
